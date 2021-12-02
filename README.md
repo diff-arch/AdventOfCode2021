@@ -7,4 +7,4 @@ This is my first year participating. I'm most comfortable with Python, however a
 
 I'll upload the challenges at least a day after they actually happened to respect the organizers' wish to not post on the same day and thus spoil the fun for others.
 
-If you'd like to try the code yourself, you can check the top of the **main.cpp** or **main.py**, where I describe how you can compile and/or run the code at least on \*nix systems (eg. macOS, Linux).
+If you'd like to try the code yourself, you can check the top of the relevant **main.cpp** or **main.py** files, where I describe how you can compile and/or run the code at least on \*nix systems (eg. macOS, Linux) in a terminal.
