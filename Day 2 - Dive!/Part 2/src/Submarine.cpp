@@ -1,5 +1,5 @@
 //
-//  Submarine.h
+//  Submarine.cpp
 //  ADVENT OF CODE 2021: Day 2 - Dive! (Part 2)
 //  
 //  Created by diff-arch on 02/12/2021.
