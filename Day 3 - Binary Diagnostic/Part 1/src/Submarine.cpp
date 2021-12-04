@@ -1,5 +1,5 @@
 //
-//  Submarine.h
+//  Submarine.cpp
 //  ADVENT OF CODE 2021: Day 3 - Binary Diagnostic (Part 1)
 //  
 //  Created by diff-arch on 03/12/2021.
