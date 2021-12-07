@@ -21,7 +21,7 @@
 
 int main() {
 	
-	const char* fpath = "/Users/marc/Desktop/Advent of Code 2021/Day 6 - Lanternfish/Part 2/bin/data/lanternfish.txt";  // insert your path
+	const char* fpath = "../bin/data/lanternfish.txt";  // insert your path
 	
 	std::string line = readLine(fpath);
 	std::vector<std::string> split_data = split(line, ",");
