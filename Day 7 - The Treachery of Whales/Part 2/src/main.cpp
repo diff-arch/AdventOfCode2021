@@ -5,7 +5,7 @@
 //  Created by diff-arch on 07/12/2021.
 //
 //  Goal:    Determine the horizontal position that the crabs can align to 
-//	         using the least fuel possible so they can make you an escape route! 
+//	     using the least fuel possible so they can make you an escape route! 
 //           How much fuel must they spend to align to that position?
 //
 //  Compile: g++ -std=c++11 -o bin/a.out src/*.cpp
