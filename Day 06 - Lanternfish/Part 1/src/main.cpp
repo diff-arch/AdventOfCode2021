@@ -20,7 +20,7 @@
 
 int main() {
 	
-	const char* fpath = "../bin/data/example-data.txt";  // insert your path
+	const char* fpath = "../bin/data/lanternfish.txt";  // insert your path
 	
 	std::string school_data = readLine(fpath);
 	
