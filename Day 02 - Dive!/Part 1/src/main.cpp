@@ -19,7 +19,7 @@
 
 int main() {
 	
-	const char* fpath = "/Users/marc/Desktop/Advent of Code 2021/Day 2 - Dive!/Part 1/bin/data/dive.txt";
+	const char* fpath = "../bin/data/dive.txt";
 	
 	Submarine sub = Submarine();
 	sub.batchExecute(fpath);
