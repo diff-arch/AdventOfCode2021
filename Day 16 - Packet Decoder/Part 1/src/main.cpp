@@ -73,7 +73,7 @@ int addVersionsRec(const std::string& binary, int count=-1) {
 
 int main() {
     
-  const char* fpath = "/Users/marc/Desktop/Advent of Code 2021/Day 16 - Packet Decoder/Part 1/bin/data/packet-decoder.txt";  // insert your path
+  const char* fpath = "../bin/data/packet-decoder.txt";  // insert your path
 	std::string line;
 	line = readLine(fpath);
 	
