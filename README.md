@@ -1,6 +1,6 @@
 # 🎄 Advent Of Code 2021 🎄
 
-![](success.png)
+![success.png]()
 
 The Advent of Code is a free, yearly event that spans over the month of December and is organized by [Eric Wastl](https://was.tl/) and others. 
 It's basically an advent calendar with small, daily programming puzzles that can be solved in pretty much any language and should be fun, independent of your skill level. Further information can be found on their website [adventofcode.com](https://adventofcode.com/).
